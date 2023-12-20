@@ -9,5 +9,6 @@ Estos accesos simulan ser la matricula y el acceso de un estudiante.
 
 Para ejecutar el proyecto (teniendo Node.js instalado) bastara con clonarlo y ejecutar los siguientes comandos.
 
-    npm isntall
+    npm install
+    
     npm run dev

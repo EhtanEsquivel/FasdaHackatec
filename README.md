@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este es un proyecto generado para el "Hackatec" la competencia de desarrollo de proyectos y software organizada por Fasdatec el dia 20 de Diciembre de 2023.
+El flujo de la aplicacione esta preparado para la vizualizacion de las pantallas que veria un estudiante, puesto que es uno de los focos principales de la misma
+- Accesos
+    - usuario: student
+    - password: 123456789
+Estos accesos simulan ser la matricula y el acceso de un estudiante

@@ -16,7 +16,6 @@ export default function Header() {
                     <Link to={routes.login} >
                         Login
                     </Link>
-                    <button>SignUp</button>
                 </div>
             }
         </header>

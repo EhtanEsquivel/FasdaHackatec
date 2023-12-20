@@ -1,0 +1,31 @@
+.main__background {
+    width: 100vw;
+    display: flex;
+    height: 100vh;
+    padding: 0 1rem 0 1rem;
+    box-sizing: border-box;
+    background: url('../../assets//SW_Background.png');
+}
+.home__content__SW {
+    width: 100%;
+    height: auto;
+    padding: 2rem;
+    margin: 1.5rem;
+    margin-left: 1rem;
+    border-radius: 5rem;
+    background-color: #F3F3F3;
+}
+.welcomeBar {
+    display: flex;
+    padding: .5rem;
+    border-radius: 1rem;
+    align-items: center;
+    background: #FFDE59;
+    justify-content: space-between;
+}
+.welcomeBar h2 {
+    color: #000;
+}
+.welcomeBar p {
+    color: #000;
+}

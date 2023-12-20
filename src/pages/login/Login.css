@@ -1,0 +1,76 @@
+.login__main__ScWi {
+    width: 100vw;
+    padding: 10%;
+    height: 100vh;
+    display: flex;
+    overflow: auto;
+    box-sizing: border-box;
+    justify-content: space-around;
+    background: url('../../assets/SW_Background.png');
+}
+.login__main__ScWi > div {
+    width: 40%;
+}
+.login__main__ScWi img {
+    width: 30%;
+    height: auto;
+}
+.login__main__ScWi form {
+    gap: 1rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    justify-content: space-around;
+}
+.login__main__ScWi form h2 {
+    text-align: center;
+}
+.login__main__input__cont {
+    display: flex;
+    padding: .5rem;
+    align-items: center;
+    border-radius: 1rem;
+    background-color: #FFFFFF50;
+    width: 90% !important;
+    gap: 2px;
+}
+.login__main__ScWi input[type="submit"] {
+    width: 80%;
+    border: none;
+    height: 3rem;
+    color: #000;
+    align-self: center;
+    border-radius: 10px;
+    background-color: #FFDE59;
+    cursor: pointer;
+}
+.login__main__ScWi input[type="text"] {
+    align-self: center;
+    width: 94%;
+    height: 100%;
+    background: none;
+    border: none;
+    border-bottom: 1px solid #FFDE59;
+    color: #000;
+}
+.login__main__ScWi input[type="password"] {
+    align-self: center;
+    width: 94%;
+    height: 100%;
+    background: none;
+    border: none;
+    border-bottom: 1px solid #FFDE59;
+    color: #000;
+}
+.login__main__ScWi input:focus{
+    outline: none;
+}
+
+.special__cont{
+    width: 80%;
+    display: flex;
+    margin-top: 5px;
+    padding-left: 8%;
+    justify-content: space-between;
+}

@@ -1,0 +1,56 @@
+.land__main__ScWi {
+    width: 100vw;
+    height: 100vh;
+    overflow: auto;
+    background: url('../../assets/SW_Background.png');
+}
+
+.land__main__ScWi h2 {
+    color: #FFDE59;
+}
+
+.land__main__init {
+    width: 100%;
+    display: flex;
+    margin-bottom: 2rem;
+    padding: 0px 5% 0px 5%;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.land__main__init img {
+    width: 50%;
+    height: 100%;
+}
+
+.land__main__init__text {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.land__main__sect__ScWi {
+    width: 100%;
+    padding: 0px 5rem 0px 5rem;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+.land__main__sect__ScWi div {
+    gap: 1rem;
+    width: 45%;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.land__main__sect__ScWi img {
+    width: 60%;
+    height: 80%;
+}
+.land__main__sect__ScWi p {
+    text-align: justify;
+}
